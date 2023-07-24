@@ -13,12 +13,13 @@
 - Giriş ekranında local zaman bilgisi
 - Seçilen timezone'a ait tarih ve saat bilgisi
 - Çoklu thema desteği: Cihazın teması ile açılacak
+- Localization: En-Tr olmak üzere dil desteği (Tasarımda yok geliştirici tarafından ana sayfada bir yere yerleştirilebilir)
 
 
 **Lütfen**, gerekli gördüğünüz durumlarda yardım istemekten çekinmeyin.
 Bunu şu yöntemlerle yapabilirsiniz:
 - Bu repo için issue kaydı açabilirsiniz
-- Boarding sürecinde sizinle iletişime geçen DOP yetkilisine e-posta atabilirsiniz
+- Boarding sürecinde sizinle iletişime geçen Ogrenci Baksana yetkilisine e-posta atabilirsiniz
 - Zoom toplantı talebinde bulunabilirsiniz.
 
 **Tarafımıza** ilettiğiniz teslim tarihinde bir gecikme olması durumunda lütfen bunu bize bildirin.
